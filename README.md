@@ -23,4 +23,4 @@ This system:
 
 ## Video Explanation
 
-[📹 Watch Complete Walkthrough](output/Video_Explanation.mp4)
+[📹 Watch Complete Walkthrough](output_sample/Video_Explanation.mp4)
